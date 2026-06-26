@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "A simple multi-page website built with Node.js using only built-in modules — no Express, no frameworks. Demonstrates server-side routing and file serving with the `http` and `fs` modules.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/legacy-king/basic-informational-site.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/legacy-king/basic-informational-site/issues"
+  },
+  "homepage": "https://github.com/legacy-king/basic-informational-site#readme"
+}
